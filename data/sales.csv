@@ -1,0 +1,101 @@
+date,product,quantity,unit_price,region,salesperson
+2025-01-02,Headphones,9,2495.46,North,Sara
+2025-01-17,Headphones,8,954.89,South,Sara
+2025-01-23,Power Bank,13,1803.34,West,Ishaan
+2025-01-26,Monitor 24-inch,3,12179.14,North,Rahul
+2025-01-29,Laptop Stand,11,1602.98,East,Ishaan
+2025-01-30,Monitor 24-inch,6,8399.56,West,Priya
+2025-01-30,Wireless Mouse,17,732.67,Central,Rahul
+2025-01-30,Laptop Stand,3,1664.81,West,Sara
+2025-02-03,Laptop Stand,11,1703.45,North,Sara
+2025-02-05,Monitor 24-inch,5,11828.17,East,Rahul
+2025-02-05,Headphones,4,2169.94,South,Ishaan
+2025-02-06,Bluetooth Speaker,18,2659.45,North,Rahul
+2025-02-11,SSD 1TB,17,5971.12,South,Ishaan
+2025-02-17,SSD 1TB,12,4289.15,Central,Ishaan
+2025-02-17,Laptop Stand,1,954.93,Central,Ananya
+2025-02-22,Monitor 24-inch,14,8433.69,West,Aarav
+2025-02-27,Wireless Mouse,8,795.62,North,Rahul
+2025-02-28,Bluetooth Speaker,15,3378.84,South,Meera
+2025-03-01,Webcam,9,1781.13,West,Priya
+2025-03-01,Mechanical Keyboard,5,2983.83,South,Ishaan
+2025-03-03,Laptop Stand,11,946.17,West,Ananya
+2025-03-07,Wireless Mouse,2,622.3,South,Ananya
+2025-03-09,Headphones,8,2736.9,South,Ishaan
+2025-03-12,Monitor 24-inch,2,10466.58,West,Rahul
+2025-03-22,Power Bank,10,2249.62,Central,Aarav
+2025-03-23,Mechanical Keyboard,2,2264.08,East,Ananya
+2025-03-23,SSD 1TB,13,5788.23,East,Sara
+2025-03-26,Power Bank,18,2378.31,West,Kabir
+2025-04-02,Headphones,14,2520.25,North,Ishaan
+2025-04-04,Wireless Mouse,11,603.06,North,Sara
+2025-04-08,Monitor 24-inch,14,10242.07,North,Ishaan
+2025-04-09,SSD 1TB,13,5993.79,North,Ishaan
+2025-04-09,SSD 1TB,3,4983.79,South,Meera
+2025-04-12,USB-C Hub,8,1035.64,East,Priya
+2025-04-13,Wireless Mouse,8,747.53,North,Sara
+2025-04-13,Power Bank,8,1523.49,North,Aarav
+2025-04-15,Headphones,13,1324.11,North,Ishaan
+2025-04-18,Headphones,9,1246.91,Central,Sara
+2025-04-20,Monitor 24-inch,16,8660.56,North,Sara
+2025-04-23,Wireless Mouse,2,527.4,North,Priya
+2025-04-23,USB-C Hub,17,2205.16,East,Aarav
+2025-04-25,Mechanical Keyboard,2,3061.47,West,Ananya
+2025-04-29,SSD 1TB,7,6080.85,West,Kabir
+2025-05-01,SSD 1TB,8,4358.66,Central,Aarav
+2025-05-02,USB-C Hub,6,2463.31,East,Aarav
+2025-05-07,Webcam,17,3366.7,East,Ananya
+2025-05-08,Mechanical Keyboard,18,2206.36,East,Rahul
+2025-05-09,Wireless Mouse,14,535.92,South,Aarav
+2025-05-10,Mechanical Keyboard,18,2439.61,West,Meera
+2025-05-15,Monitor 24-inch,17,11808.81,West,Ishaan
+2025-05-16,Monitor 24-inch,14,12361.17,North,Ananya
+2025-05-20,SSD 1TB,13,5455.93,South,Kabir
+2025-05-21,Power Bank,10,1115.23,North,Ishaan
+2025-05-29,Mechanical Keyboard,4,3209.64,East,Ishaan
+2025-06-01,Laptop Stand,18,1764.58,West,Meera
+2025-06-09,SSD 1TB,12,6984.45,East,Sara
+2025-06-15,Power Bank,12,1028.22,South,Ananya
+2025-06-17,Headphones,13,2473.71,South,Kabir
+2025-06-21,Headphones,3,2763.66,North,Rahul
+2025-06-24,Mechanical Keyboard,6,2086.0,East,Aarav
+2025-07-05,Bluetooth Speaker,3,1641.26,West,Ananya
+2025-07-14,Wireless Mouse,9,893.12,East,Ishaan
+2025-07-17,Bluetooth Speaker,2,1636.18,East,Aarav
+2025-07-22,Power Bank,5,1213.31,North,Ishaan
+2025-07-24,Laptop Stand,1,861.33,West,Kabir
+2025-07-26,Headphones,4,2560.3,North,Ananya
+2025-07-27,Monitor 24-inch,10,12167.63,South,Ananya
+2025-07-28,Laptop Stand,14,802.76,South,Kabir
+2025-07-28,Headphones,14,1992.74,West,Ananya
+2025-07-28,Power Bank,13,1721.04,West,Rahul
+2025-07-29,Headphones,10,1684.28,Central,Rahul
+2025-07-30,Power Bank,2,2294.76,West,Aarav
+2025-08-04,SSD 1TB,1,6713.52,Central,Kabir
+2025-08-05,Monitor 24-inch,16,11308.36,North,Ananya
+2025-08-05,Headphones,7,1410.32,South,Priya
+2025-08-09,Bluetooth Speaker,11,2594.32,East,Sara
+2025-08-11,Headphones,11,2401.8,East,Priya
+2025-08-15,Laptop Stand,6,1261.29,West,Ishaan
+2025-08-21,Headphones,12,1156.84,North,Ishaan
+2025-08-22,SSD 1TB,7,6657.41,East,Sara
+2025-08-23,Headphones,3,2842.84,West,Sara
+2025-08-25,Laptop Stand,3,1660.93,East,Priya
+2025-08-25,SSD 1TB,18,4808.84,North,Meera
+2025-08-26,Monitor 24-inch,11,12938.46,East,Kabir
+2025-09-02,Wireless Mouse,10,876.1,East,Kabir
+2025-09-17,Bluetooth Speaker,12,1656.5,North,Aarav
+2025-09-18,SSD 1TB,18,6037.55,South,Aarav
+2025-09-21,Bluetooth Speaker,8,1969.93,South,Ananya
+2025-09-24,Monitor 24-inch,7,11433.29,South,Kabir
+2025-09-28,Webcam,1,3920.91,West,Ishaan
+2025-10-03,Monitor 24-inch,8,11998.34,East,Ananya
+2025-10-07,SSD 1TB,9,4660.32,West,Rahul
+2025-10-07,Wireless Mouse,18,832.84,North,Kabir
+2025-10-08,Power Bank,16,2344.81,East,Ishaan
+2025-10-10,SSD 1TB,4,5681.72,West,Rahul
+2025-10-11,Webcam,4,3814.74,North,Ishaan
+2025-10-13,Laptop Stand,4,1708.22,East,Rahul
+2025-10-16,Wireless Mouse,14,532.58,North,Sara
+2025-10-16,Mechanical Keyboard,7,1645.52,Central,Ishaan
+2025-10-27,SSD 1TB,13,6692.47,South,Ananya
